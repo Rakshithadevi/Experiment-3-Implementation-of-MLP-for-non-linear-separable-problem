@@ -120,7 +120,7 @@ predict(w1,w2,test)
 
  ## OUTPUT: 
  
- ##loss graph:
+ ## loss graph:
  
  ![image](https://github.com/Rakshithadevi/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/94165326/090aa9c9-28c2-4913-b11c-29e5eb73b236)
 
